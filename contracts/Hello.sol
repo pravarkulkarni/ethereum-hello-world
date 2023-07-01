@@ -3,6 +3,7 @@ pragma solidity ^0.8.6;
 
 contract Hello {
     string message;
+    string test;
 
     constructor() {
         message = "Hello, Hollywood!";
